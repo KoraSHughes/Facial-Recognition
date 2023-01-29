@@ -1,5 +1,5 @@
 # Facial-Recognition
-Kora S. Hughes - Computer Vision Project 2
+Kora S. Hughes - Computer Vision Project 2<br>
 Goal: run PCA on existing faces and match to testing set
 
 Necessarry Packages to have installed:
