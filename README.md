@@ -1,14 +1,13 @@
 # Facial-Recognition
-Project for grad-level Computer Vision fall 2022.
+Kora S. Hughes - Computer Vision Project 2<br>
+Goal: run PCA on existing faces and match to testing set
 
-Kora S. Hughes - Computer Vision Project 2
-
-Necessarry Packages to have installed:
--Matplotlib
--Numpy
--OS
--PIL
-
+Necessarry Packages to have installed:<ul>
+<li>Matplotlib</li>
+<li>Numpy</li>
+<li>OS</li>
+<li>PIL</li>
+</ul>
 Configure:
 - to add different testing or training images then just change the files in the /Face-dataset/Training/ & /Face-dataset/Testing/ directories
 
